@@ -1,0 +1,11 @@
+No. Of Days Spent In Hospital : 10
+Daily Rate : 50
+Medication Charges : 115.94
+Service Charges : 100
+Total Charges : 715.94
+
+Out-Patient
+
+Medication Charges : 220.435
+Service Charges : 100.554
+Total Charges : 320.989

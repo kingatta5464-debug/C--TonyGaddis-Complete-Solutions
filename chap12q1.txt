@@ -1,0 +1,20 @@
+East Division Sales : 
+Quarter 1 Sales : 1
+Quarter 2 Sales : 1
+Quarter 3 Sales : 1
+Quarter 4 Sales : 1
+West Division Sales : 
+Quarter 1 Sales : 45
+Quarter 2 Sales : 45
+Quarter 3 Sales : 45
+Quarter 4 Sales : 45
+North Division Sales : 
+Quarter 1 Sales : 56
+Quarter 2 Sales : 56
+Quarter 3 Sales : 56
+Quarter 4 Sales : 56
+South Division Sales : 
+Quarter 1 Sales : 56
+Quarter 2 Sales : 56
+Quarter 3 Sales : 56
+Quarter 4 Sales : 56
